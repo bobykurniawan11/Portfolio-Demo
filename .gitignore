@@ -1,11 +1,12 @@
-# Files and directories created by pub
-.dart_tool/
-.packages
-# Remove the following pattern if you wish to check in your lock file
-pubspec.lock
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
 
-# Conventional directory for build outputs
-build/
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
 
-# Directory created by dartdoc
-doc/api/
